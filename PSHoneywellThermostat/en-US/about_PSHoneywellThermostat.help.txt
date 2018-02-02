@@ -1,0 +1,12 @@
+PSTOPIC
+    about_PSHoneywellThermostat
+
+SHORT DESCRIPTION
+    PSHoneywellThermostat allows you to interact with Honeywell's MyTotalConnectComfort API and Accuweather API
+
+LONG DESCRIPTION
+    PSHoneywellThermostat allows you to interact with Honeywell's MyTotalConnectComfort API and Accuweather API
+
+DETAILED DESCRIPTION
+    Functions that will interact with Honeywell's MyTotalConnectComfort site to set and query thermostat modes
+    After setting up an account on Accuweather's developer API, there is a function which supports querying the current temperature.

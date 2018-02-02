@@ -1,2 +1,4 @@
 # HoneywellThermostat
-Utilizes the total connect comfort endpoint
+Utilizes the Honeywell my total connect comfort endpoint to control thermostats
+
+WORK IN PROGRESS....
